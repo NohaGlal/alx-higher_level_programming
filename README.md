@@ -1,1 +1,1 @@
-Python programming language
+programming language
